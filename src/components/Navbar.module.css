@@ -1,0 +1,7 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background-color: rgb(0, 0, 0);
+  color: rgb(253, 253, 253);
+}
